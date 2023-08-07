@@ -1,0 +1,256 @@
+:root {
+    --bg-light-green: #D2DA60;
+    --bangni: #9003E5;
+    --blue: #010080;
+    --white: #FFFFFF;
+    --tx-black: black;
+
+    /* font-size */
+    --fs-18: 18px;
+    --fs-36: 36px;
+    --fs-20: 20px;
+    --fs-48: 48px;
+    --fs-144: 144px;
+    --fs-64: 64px;
+    --fs-24: 24px;
+    --fs-17: 17px;
+
+
+    /* font-weight */
+    --fw-600: 600;
+    --fw-400: 400;
+    --fw-500: 500;
+    --fw-700: 700;
+}
+
+.tx-black {
+    color: var(--tx-black);
+}
+
+.white {
+    color: var(--white);
+}
+
+.bg-clr {
+    background-color: var(--bg-light-green);
+}
+
+.nav-box {
+    color: var(--bangni);
+    font-weight: var(--fw-400);
+}
+
+.paraline {
+    font-size: var(--fs-18);
+    font-weight: var(--fw-400);
+}
+
+.paraline1 {
+    font-size: var(--fs-36);
+    font-weight: var(--fw-500);
+}
+
+.paraline2 {
+    font-size: var(--fs-20);
+    font-weight: var(--fw-500);
+}
+
+.why {
+    font-size: var(--fs-48);
+    font-weight: var(--fw-700);
+}
+
+.same-font {
+    font-size: var(--fs-24);
+    font-weight: var(--fw-500);
+}
+
+.gallery {
+    font-size: var(--fs-48);
+    font-weight: var(--fw-700);
+}
+
+.welcome {
+    font-size: var(--fs-48);
+    font-weight: var(--fw-700);
+}
+
+.para1 {
+    font-size: var(--fs-18);
+    font-weight: var(--fw-400);
+}
+
+.member {
+    font-size: var(--fs-18);
+    font-weight: var(--fw-400);
+}
+
+.no1 {
+    font-size: var(--fs-64);
+    font-weight: var(--fw-700);
+    color: var(--blue);
+}
+
+.lorem {
+    font-size: var(--fs-18);
+    font-weight: var(--fw-400);
+}
+
+.btn-readmore {
+    font-size: var(--fs-18);
+    font-weight: var(--fw-400);
+    background-color: var(--blue);
+}
+
+.no2 {
+    font-size: var(--fs-64);
+    font-weight: var(--fw-700);
+    color: var(--blue);
+}
+
+.lorem1 {
+    font-size: var(--fs-18);
+    font-weight: var(--fw-400);
+}
+
+.btn-readmore1 {
+    font-size: var(--fs-18);
+    font-weight: var(--fw-400);
+    background-color: var(--blue);
+}
+
+.our1 {
+    font-size: var(--fs-48);
+    font-weight: var(--fw-700);
+}
+
+.no3 {
+    font-size: var(--fs-64);
+    font-weight: var(--fw-700);
+    color: var(--blue);
+}
+
+.lorem2 {
+    font-size: var(--fs-18);
+    font-weight: var(--fw-400);
+}
+
+.btn-readmore2 {
+    font-size: var(--fs-18);
+    font-weight: var(--fw-400);
+    background-color: var(--blue);
+}
+
+.our2 {
+    font-size: var(--fs-48);
+    font-weight: var(--fw-700);
+}
+
+.our {
+    font-size: var(--fs-48);
+    font-weight: var(--fw-700);
+}
+
+.fonthome {
+    font-size: var(--fs-18);
+    font-weight: var(--fw-400);
+}
+
+.font-h {
+    font-size: var(--fs-18);
+    font-weight: var(--fw-600);
+}
+
+.loremfooter {
+    font-size: var(--fs-18);
+    font-weight: var(--fw-400);
+}
+
+.ft-copyright {
+    font-size: var(--fs-18);
+    font-weight: var(--fw-400);
+}
+
+.txt-eml {
+    font-size: var(--fs-24);
+    font-weight: var(--fw-400);
+}
+
+.font-dianep {
+    font-size: var(--fs-18);
+    font-weight: var(--fw-400);
+}
+
+.font-diane {
+    font-size: var(--fs-18);
+    font-weight: var(--fw-700);
+}
+
+.font-test {
+    font-size: var(--fs-48);
+    font-weight: var(--fw-700);
+}
+
+.sub {
+    font-size: var(--fs-20);
+    font-weight: var(--fw-500);
+}
+
+.text-our {
+    font-size: var(--fs-36);
+    font-weight: var(--fw-700);
+}
+
+.text-team {
+    font-size: var(--fs-18);
+    font-weight: var(--fw-500);
+}
+
+.text-frank {
+    font-size: var(--fs-24);
+    font-weight: var(--fw-700);
+}
+
+.font-grid {
+    font-size: var(--fs-18);
+    font-weight: var(--fw-400);
+}
+
+.font-gridh {
+    font-size: var(--fs-36);
+    font-weight: var(--fw-700);
+}
+
+@media (min-width:320px) {
+    .font-h {
+        font-size: var(--fs-17);
+        font-weight: var(--fw-600);
+    }
+
+}
+
+.fs_xs_34 {
+    font-size: var(--fs-48);
+    font-weight: var(--fw-700);
+}
+
+.fs-24-font {
+    font-size: var(--fs-24);
+    font-weight: var(--fw-700);
+}
+
+.font-64 {
+    font-size: var(--fs-64);
+    font-weight: var(--fw-700);
+    color: var(--blue);
+}
+
+.section6_para3 {
+    font-size: var(--fs-18);
+    font-weight: var(--fw-400);
+}
+
+.section6_para2 {
+    font-size: var(--fs-36);
+    font-weight: var(--fw-500);
+}
